@@ -36,6 +36,7 @@ Optimizer	Adam
 
 📌 Key Features
 ✅ Uses pretrained MobileNetV2 for fast and accurate feature extraction
+
 ✅ Data augmentation to improve generalization
 ✅ Cosine similarity-based retrieval
 ✅ Visual and metric-based evaluation
